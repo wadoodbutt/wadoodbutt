@@ -6,5 +6,5 @@ I am willing to grow from my mistakes and have a resilient mindset.
 
 I hope you enjoy my display of my projects!
 
-Check out my happy birthday website: psychicend.pythonanywhere.com 
+Check out my happy birthday website: bdaywisher.pythonanywhere.com 
 
